@@ -3,6 +3,6 @@ def prime?(num)
     if num % i == 0 
       return false 
     end 
-  true 
+  return true 
   end 
 end
