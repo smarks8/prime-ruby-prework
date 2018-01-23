@@ -4,4 +4,5 @@ def prime?(num)
       return false 
     end 
   true 
+  end 
 end
